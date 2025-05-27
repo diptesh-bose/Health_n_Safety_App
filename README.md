@@ -1,4 +1,3 @@
-
 # H&S Safety Copilot
 
 ## Overview
@@ -192,6 +191,42 @@ This command will:
 4.  Open the application in your default web browser (usually at `http://localhost:3000`).
 
 You should now see the H&S Safety Copilot application running locally!
+
+## Application Walkthrough
+
+Below are product screenshots to help users become familiar with the H&S Safety Copilot application and its features:
+
+### 1. Dashboard
+![Dashboard](docs_assets/001_Dashboard.png)
+The main dashboard provides an overview of the application's features and quick access to key functionalities.
+
+### 2. Analyze New Safety Rules
+![Analyze Rules](docs_assets/002_AnalyzeRules.png)
+Upload and summarize new safety regulations. Use AI to understand the impact of these rules on inspections.
+
+### 3. Prepare the Checklist
+![Safety Checklist Preparation](docs_assets/003_SafetyChecklistPrep.png)
+Update safety checklists with new steps to ensure compliance with regulations.
+
+### 4. H&S Risks Detection
+![Risk Detection with Vision AI](docs_assets/004_RiskDetection_VisionAI.png)
+Analyze images of workers to identify potential risks and include AI-generated comments in your notes.
+
+### 5. Review Contractor’s H&S Plan
+![Review Contractor H&S Plan](docs_assets/005_Review_Contractor_HnS_Plan.png)
+Retrieve and summarize contractor safety plans to ensure compliance and identify potential violations.
+
+### 6. Review Contractor’s H&S Plan (Detailed View)
+![Detailed Contractor H&S Plan Review](docs_assets/006_Review_Contractor_HnS_Plan.png)
+Dive deeper into contractor plans for a detailed review of their scope of work and safety measures.
+
+### 7. Email Event Violations
+![Email Event Violations](docs_assets/007_Email_Event_Violations.png)
+Draft urgent emails to the Head of H&S, summarizing identified violations with AI-generated content.
+
+---
+
+These screenshots provide a visual guide to the application's features and workflows, helping users navigate and utilize the H&S Safety Copilot effectively.
 
 ## Project Structure (Key Files & Folders)
 
