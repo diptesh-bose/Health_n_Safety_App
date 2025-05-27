@@ -1,5 +1,8 @@
 {
   "name": "H&S Safety Copilot",
   "description": "An AI-powered application to assist with health and safety inspections, rule analysis (including text from various document types), risk detection from images, and reporting for oil & natural gas operations.",
-  "requestFramePermissions": ["camera"]
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
 }
